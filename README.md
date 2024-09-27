@@ -1,4 +1,4 @@
-## Aishwarya Dasaraju 
+# Aishwarya Dasaraju 
 
 #### Technical Skills: Python, SQL, HTML, CSS, JavaScript, MongoDB, PowerBI, Tableau
 
