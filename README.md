@@ -1,4 +1,5 @@
-# Computer Science Student at Grand Valley State University
+## Aishwarya Dasaraju 
+Computer Science Student at Grand Valley State University
 
 #### Technical Skills: Python, SQL, HTML, CSS, JavaScript, MongoDB, PowerBI, Tableau
 
