@@ -1,2 +1,10 @@
-# Portfolio
-Personal Portfolio which demonstrates my background and skills
+# Data Analyst
+
+### Education
+Computer Science
+
+### Work Experience
+Analyst
+
+### Projects
+Sentiment Analysis
