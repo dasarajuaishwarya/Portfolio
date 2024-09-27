@@ -1,4 +1,4 @@
-# Aishwarya Dasaraju 
+# Computer Science Student at GVSU
 
 #### Technical Skills: Python, SQL, HTML, CSS, JavaScript, MongoDB, PowerBI, Tableau
 
