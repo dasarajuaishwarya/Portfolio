@@ -51,7 +51,9 @@ The app will offer features like:
 
 This project showcases my ability to work on both the front-end and back-end, using tools like HTML, CSS, and JavaScript for the UI, and backend technologies like Node.js and MongoDB for data management.
 
+
 [View this project](https://dasarajuaishwarya.github.io/analytica.github.io/)
+
 
 ## Publications
 
