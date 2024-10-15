@@ -1,10 +1,21 @@
 # Computer Science Student at GVSU
 
+## Personal interests
+- I am a experimenter 👩‍🔬, who love to re-address my code using new libraries online.
+- I always keep myself up with the technology by listening to podcasts 📻.
+- My interest in the field of cybersecurity drived met to take a step forward on performing a full-fledged research and published a paper too.
+- I am a water loving person and would love to relax on beaches 🏖️ quite often.
+
+### Technical Background
+I am a question bank ❓ coupled with curiosity 🕵️‍♀️ in learning new things. As a passionate technical geek with an undergraduate degree in Computer Science 👩‍🎓, my academic journey planted the first seeds of my technical knowledge. Theoretical and practical training in C, JAVA, Python, and MS SQL, alongside subjects like Design and Analysis of Algorithms and Formal Language and Automata Theory, drove me to explore various aspects of computer science.
+
+After joining a firm, I further expanded my knowledge in no-code and low-code applications such as PowerBI, Tableau, MS Excel, and Azure. This exploration did not stop there; I continually seek new ways to address real-world problems. The recent surge 🤯 of AI systems, like ChatGPT and Co-pilot, has motivated me to dive into machine learning and deep learning concepts. Yet, this is just another step in my unending technical quest🕴.
+
 #### Technical Skills: Python, SQL, HTML, CSS, JavaScript, MongoDB, PowerBI, Tableau
 
 ## Education
 - M.S., Applied Computer Science | Grand Valley State University (_Apr 2025_)								       		
-- B.Tech., Computer Science	| Jawaharlal Nehru Technological University (_Jul 2021_)	 			        		
+- B.Tech., Computer Science	     | Jawaharlal Nehru Technological University (_Jul 2021_)	 			        		
 
 ## Work Experience
 **Analyst @ Tata Consultancy Services (_Oct 2021 - Jul 2023_)**
@@ -27,6 +38,18 @@ We focused on the predictive modeling of important metrics in the ride-sharing s
 ### Sentiment Analysis of Customer Feedback on Restaurants Using Machine Learning
 
 Classification of reviews on huge datasets containing many records downloaded from kaggle platform. The classification techniques used is Naive Bayes Classifier. Performed training on the preprocessed dataset using diﬀerent classification machine learning algorithms in order to achieve the optimal classification result and give the result back on the website. 
+
+### Term Project - Personal Expense Tracker
+
+Our project aims to develop a personal expense tracker that allows users to manage their monthly income and expenses effortlessly. 
+The app will offer features like:
+- Budget management
+- Expense categorization
+- Monthly reports with visual insights
+- Notifications for overspending
+- Secure user authentication
+
+This project showcases my ability to work on both the front-end and back-end, using tools like HTML, CSS, and JavaScript for the UI, and backend technologies like Node.js and MongoDB for data management.
 
 
 ## Publications
