@@ -1,4 +1,4 @@
-# Computer Science Student at GVSU
+# Aishwarya Dasaraju - Computer Science Student 
 
 ## Personal interests
 - I am a experimenter 👩‍🔬, who love to re-address my code using new libraries online.
