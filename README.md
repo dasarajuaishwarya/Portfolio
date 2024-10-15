@@ -1,4 +1,4 @@
-# Aishwarya Dasaraju - Computer Science Student 
+# Aishwarya Dasaraju
 
 ## Personal interests
 - I am a experimenter 👩‍🔬, who love to re-address my code using new libraries online.
